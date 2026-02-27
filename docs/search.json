@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Time-Series-Forecasting-with-R\nA quantitative time series course repository in R focused on forecasting, stochastic structure, and time-aware validation, built with reproducible workflows on real economic and financial data.\n\nForecasting U.S. Imports of Mexican Automobiles"
+  },
+  {
+    "objectID": "projects.html#time-series-forecasting-r",
+    "href": "projects.html#time-series-forecasting-r",
+    "title": "Projects",
+    "section": "",
+    "text": "Time-Series-Forecasting-with-R\nA quantitative time series course repository in R focused on forecasting, stochastic structure, and time-aware validation, built with reproducible workflows on real economic and financial data.\n\nForecasting U.S. Imports of Mexican Automobiles"
   }
 ]

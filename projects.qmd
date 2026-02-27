@@ -1,0 +1,10 @@
+---
+title: "Projects"
+---
+
+## Time Series Forecasting (R)
+
+**Time-Series-Forecasting-with-R**\
+A quantitative time series course repository in R focused on forecasting, stochastic structure, and time-aware validation, built with reproducible workflows on real economic and financial data.
+
+-   Forecasting U.S. Imports of Mexican Automobiles
