@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Abraham Flores – Quant Portfolio"
+  title: "Abraham Flores – Data & Quantitative Analytics"
   navbar:
     left:
       - href: index.qmd
